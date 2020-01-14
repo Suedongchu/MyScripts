@@ -37,3 +37,5 @@ sudo gedit /etc/apt/sources.list
 #sudo apt-get -y install sbt
 ##sbt change source
 #sudo apt -y install openjdk-8-jre-headless
+##for chisel RTL viewer ,need dot program
+#sudo apt -y install graphviz
